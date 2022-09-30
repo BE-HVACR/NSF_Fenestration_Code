@@ -1,0 +1,299 @@
+Reading input and weather file for preprocessor program.
+The IDF version of the input file ///tmp/job.6262551/ffeng/JModelica.org/jm_tmp12d2km22//resources//in_WithCFS_withFMI.idf starts with 9
+Successfully finish reading weather file.
+This is the Begin Month: 7
+This is the Day of the Begin Month: 4
+This is the End Month: 7
+This is the Day of the End Month: 5
+Day of week was left blank in input file.
+This is the New Day of Week:  
+Running EPMacro...
+ExpandObjects Started.
+No expanded file generated.
+ExpandObjects Finished. Time:     4.181
+EnergyPlus Starting
+EnergyPlus, Version 9.6.0-bbd44613e0, YMD=2022.09.12 02:16
+Initializing Response Factors
+Calculating CTFs for "3"
+Calculating CTFs for "5"
+Calculating CTFs for "6"
+Calculating CTFs for "7"
+Calculating CTFs for "MYFLOOR"
+Initializing Window Optical Properties
+Initializing Solar Calculations
+Allocate Solar Module Arrays
+Initializing Zone and Enclosure Report Variables
+Initializing Surface (Shading) Report Variables
+Computing Interior Solar Absorption Factors
+Determining Shadowing Combinations
+Computing Window Shade Absorption Factors
+Proceeding with Initializing Solar Calculations
+Initializing Surfaces
+Initializing Outdoor environment for Surfaces
+Setting up Surface Reporting Variables
+Initializing Temperature and Flux Histories
+Initializing Window Shading
+Computing Interior Absorption Factors
+Computing Interior Diffuse Solar Absorption Factors
+Initializing Solar Heat Gains
+Initializing Internal Heat Gains
+Initializing Interior Solar Distribution
+Initializing Interior Convection Coefficients
+Gathering Information for Predefined Reporting
+Completed Initializing Surface Heat Balance
+Calculate Outside Surface Heat Balance
+Calculate Inside Surface Heat Balance
+Calculate Air Heat Balance
+Initializing HVAC
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #1 WINTER DESIGN DAY IN ATLANTA HARTSFIELD INTL AP ANN HTG 99.6% CONDNS DB
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #2 SUMMER DESIGN DAY IN ATLANTA HARTSFIELD INTL AP ANN CLG .4% CONDNS DB=>MWB
+Calculating System sizing
+...for Sizing Period: #1 WINTER DESIGN DAY IN ATLANTA HARTSFIELD INTL AP ANN HTG 99.6% CONDNS DB
+Calculating System sizing
+...for Sizing Period: #2 SUMMER DESIGN DAY IN ATLANTA HARTSFIELD INTL AP ANN CLG .4% CONDNS DB=>MWB
+Adjusting Air System Sizing
+Adjusting Standard 62.1 Ventilation Sizing
+Initializing Simulation
+Reporting Surfaces
+Beginning Primary Simulation
+Initializing New Environment Parameters
+Warming up {1}
+Instantiating FunctionalMockupUnitExport interface
+ExternalInterface initializes.
+Number of outputs in ExternalInterface = 1
+Number of inputs  in ExternalInterface = 0
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Warming up {7}
+Warming up {8}
+Warming up {9}
+Warming up {10}
+Starting Simulation at 07/04/2017 for RUN PERIOD 1
+ExternalInterface starts first data exchange.
+XML Parsing error inside file './examples/tmx/blinds_Angle6.0.xml'.
+Error: File not found
+At line 0, column 0.
+Error: The server closed the socket while the client was reading.
+Error: The server closed the socket while the client was reading.
+**FATAL:Error in ExternalInterface: Check EnergyPlus *.err file.
+EnergyPlus Run Time=00hr 10min 10.95sec
+Program terminated: EnergyPlus Terminated--Error(s) Detected.
+asfaf
+['/scratch/user/ffeng/program/anaconda3/lib/python3.8/site-packages/locket-0.2.1-py3.8.egg', '/scratch/user/ffeng/program/anaconda3/lib/python3.8/site-packages/pywincalc-2.4.2-py3.8-linux-x86_64.egg', '/scratch/user/ffeng/program/anaconda3/lib/python3.8/site-packages/dill-0.3.4-py3.8.egg', '/scratch/user/ffeng/program/anaconda3/lib/python3.8/site-packages/errr-1.0.0-py3.8.egg', '/scratch/user/ffeng/program/anaconda3/lib/python3.8/site-packages/mpipool-1.0.0-py3.8.egg', '/scratch/user/ffeng/program/anaconda3/lib/python3.8/site-packages', '/scratch/user/ffeng/program/anaconda3/lib/python3.8/lib-dynload', '/scratch/user/ffeng/program/anaconda3/lib/python3.8', '/scratch/user/ffeng/program/anaconda3/lib/python38.zip', '/scratch/user/ffeng/MPC/Case1', './', '.', '/scratch/user/ffeng/EnergyPlus_WithMatActuator/Products', '/scratch/user/ffeng/EnergyPlus_WithMatActuator/Products/python_standard_lib/lib-dynload', '/scratch/user/ffeng/EnergyPlus_WithMatActuator/Products/python_standard_lib']
+Day of Year:  21    Hour: 0
+Day of Year:  21    Hour: 1
+Day of Year:  21    Hour: 2
+Day of Year:  21    Hour: 3
+Day of Year:  21    Hour: 4
+Day of Year:  21    Hour: 5
+Day of Year:  21    Hour: 6
+Day of Year:  21    Hour: 7
+Day of Year:  21    Hour: 8
+Day of Year:  21    Hour: 9
+Day of Year:  21    Hour: 10
+Day of Year:  21    Hour: 11
+Day of Year:  21    Hour: 12
+Day of Year:  21    Hour: 13
+Day of Year:  21    Hour: 14
+Day of Year:  21    Hour: 15
+Day of Year:  21    Hour: 16
+Day of Year:  21    Hour: 17
+Day of Year:  21    Hour: 18
+Day of Year:  21    Hour: 19
+Day of Year:  21    Hour: 20
+Day of Year:  21    Hour: 21
+Day of Year:  21    Hour: 22
+Day of Year:  21    Hour: 23
+Day of Year:  202    Hour: 0
+Day of Year:  202    Hour: 1
+Day of Year:  202    Hour: 2
+Day of Year:  202    Hour: 3
+Day of Year:  202    Hour: 4
+Day of Year:  202    Hour: 5
+Day of Year:  202    Hour: 6
+Day of Year:  202    Hour: 7
+Day of Year:  202    Hour: 8
+Day of Year:  202    Hour: 9
+Day of Year:  202    Hour: 10
+Day of Year:  202    Hour: 11
+Day of Year:  202    Hour: 12
+Day of Year:  202    Hour: 13
+Day of Year:  202    Hour: 14
+Day of Year:  202    Hour: 15
+Day of Year:  202    Hour: 16
+Day of Year:  202    Hour: 17
+Day of Year:  202    Hour: 18
+Day of Year:  202    Hour: 19
+Day of Year:  202    Hour: 20
+Day of Year:  202    Hour: 21
+Day of Year:  202    Hour: 22
+Day of Year:  202    Hour: 23
+Day of Year:  185    Hour: 0
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 1
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 2
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 3
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 4
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 5
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 6
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 7
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 8
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 9
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 10
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 11
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 12
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 13
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 14
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 15
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 16
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 17
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 18
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 19
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 20
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 21
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 22
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
+Day of Year:  185    Hour: 23
+3
+Turn off MPC controller
+350.0
+2895
+Lighting and HVAC system control deployed
